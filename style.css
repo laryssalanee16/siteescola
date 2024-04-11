@@ -1,3 +1,14 @@
 .cabeçalho{background-color: blueviolet;color: rgb(255, 238, 7); display:flex; justify-content: space-around;}
 .imagem-logo{width: 20%;}
 .cabeçalho-lista-item{display: inline-block; margin:016px; font-size: 26px;}
+.cabeçalho-lista-item {display: inline-block;}
+.escola-imagem{width: 25%;}
+.escola{
+    background-image: linear-gradient(#241885,#2d9e42)
+    color:#ffffff
+    display: flex;
+    justify-content: center;
+    aling-items: center;
+    padding: 24px 0;}
+    .ewcola-div-conteudo{width:45%;}
+    .escola-titulo{padding: 30px 0%;}
